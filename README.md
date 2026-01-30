@@ -42,3 +42,9 @@ Run the Apps:
 For Task 1: streamlit run app.py.
 
 For Task 2: streamlit run internal_app.py.
+
+Demo Videos
+Task 1 Demo: [https://www.loom.com/share/f0480617a0be46579d6bf988d2e3c244]
+
+Task 2 Demo: [https://www.loom.com/share/c14a7a7de9ff434e97b1f267479d133f]
+
